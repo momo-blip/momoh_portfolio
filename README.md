@@ -11,3 +11,8 @@ The Data Dataset was created just for learning purposes.
 This model predicts Property price based on certain features like Location, Number of bathrooms, Number of Bedrooms, and size.
 The Linear regression Model was used.
 The dataset was taken from Kaggle.
+
+# [Project 3: Heart Disease classifier](https://github.com/momo-blip/Heart_disease-Classifier-.git)
+I build a model that classifies a patient as either having a heart disease or not based on some parameters.
+The model uses logistic regression.
+The data set was taken from kaggle.
